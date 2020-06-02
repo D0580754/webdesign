@@ -1,0 +1,2 @@
+Flask
+gunicorn #在Heroku啟動程式用
